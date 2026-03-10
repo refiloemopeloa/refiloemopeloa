@@ -1,5 +1,5 @@
 # 💫 About Me:
-ℹ️ My name is Refiloe, and I am doing my honours in Computer Science.<br>💭 My interests are in operating systems, high performance computing, and computer architecture.<br>💻 I enjoy creating and working on projects so that others can learn and gather useful insights from my projects.<br>🧩 My hobbies include singing and gaming. I am currently in two choirs and play Fortnite with my mates on Fridays.<br>🫱🏽‍🫲🏽 I am opening to collaborating on any project where I can learn and develop my skills.<br>
+ℹ️ My name is Refiloe, and I am doing my master's in Computer Science.<br>💭 My interests are in operating systems, computer architecture, system security, and high-performance computing.<br>💻 I enjoy creating and working on projects so that others can learn and gather useful insights from my projects.<br>🧩 My hobbies include singing and gaming. I am currently in a choir and play Fortnite with my mates occasionally.<br>🫱🏽‍🫲🏽 I am open to collaborating on any project where I can learn and develop my skills.<br>
 
 
 ## 🌐 Socials:
